@@ -135,6 +135,6 @@ Unity version used: **6000.3.0f1**.
 
 ## Author
 
-**Rishikesh Munnaluri**
+**MOHAMMMAD ARBAB MOHSIN**
 
 Computer Graphics and Virtual Reality Laboratory
